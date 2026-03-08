@@ -37,7 +37,3 @@
    - Include: `C:\SFML\include`
    - Lib: `C:\SFML\lib`
    - DLL из `C:\SFML\bin` в папку с .exe
-
-### Linux
-```bash
-sudo apt install libsfml-dev
